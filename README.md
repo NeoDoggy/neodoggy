@@ -18,6 +18,11 @@
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neodoggy&theme=radical&layout=compact&custom_title=did%20I%20do%20anything%20this%20week%20?)
 
+![](https://img.shields.io/badge/Current%20workin%20on-owo-pink)  
+
+- 🔗 [pythonAI](https://github.com/NeoDoggy/ai_project)
+- 🤖 [Discord bots in python](https://github.com/NeoDoggy/python_dcbot)
+
 
 <!--
 **NeoDoggy/neodoggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
