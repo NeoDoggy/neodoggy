@@ -18,7 +18,6 @@
 <!--![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neodoggy&theme=radical&layout=compact&custom_title=did%20I%20do%20anything%20this%20week%20?)-->
   
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 
