@@ -12,8 +12,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neodoggy&theme=radical&layout=compact&card_width=445)
 
 
-
+<!--
 ![](https://img.shields.io/badge/Waka%20stats-owo-pink)
+-->
 
 <!--START_SECTION:waka-->
 
