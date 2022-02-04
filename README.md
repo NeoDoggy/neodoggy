@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on deadlines
 - 🌱 I’m currently learning how to code
-- ⚡ Fun fact: I'm week
+- ⚡ Fun fact: I'm weak
 
 ![](https://img.shields.io/badge/Github%20stats-owo-pink)  
 
