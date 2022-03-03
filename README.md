@@ -22,8 +22,8 @@
 
 ![](https://img.shields.io/badge/Current%20workin%20on-owo-pink)  
 
-- 🔗 [pythonAI](https://github.com/NeoDoggy/ai_project)
 - 🤖 [Discord bots in python](https://github.com/NeoDoggy/python_dcbot)
+- 🔗 [pythonAI](https://github.com/NeoDoggy/ai_project)
 
 
 <!--
