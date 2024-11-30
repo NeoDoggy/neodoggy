@@ -2,9 +2,9 @@
 
 ![](https://img.shields.io/badge/About%20me-owo-pink)
 
-- 🔭 I’m currently working on deadlines
-- 🌱 I’m currently learning how to code
-- ⚡ Fun fact: I'm weak
+- 🔭 I’m currently working on embedded projects and web apps
+- 🌱 I’m currently learning anything interesting
+- ⚡ Fun fact: I draw
 
 ![](https://img.shields.io/badge/Github%20stats-owo-pink)  
 
@@ -22,8 +22,8 @@
 
 ![](https://img.shields.io/badge/Current%20workin%20on-owo-pink)  
 
-- 🤖 [Discord bots in python](https://github.com/NeoDoggy/python_dcbot)
-- 🔗 [pythonAI](https://github.com/NeoDoggy/ai_project)
+- 🤖 [Better MOCHI]([https://github.com/NeoDoggy/python_dcbot](https://github.com/NeoDoggy/BetterMochi))
+- 💙 [project nyadoggy]([https://github.com/NeoDoggy/ai_project](https://github.com/NeoDoggy/nyadoggy_DCbot))
 
 
 <!--
