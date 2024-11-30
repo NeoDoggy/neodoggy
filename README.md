@@ -8,8 +8,8 @@
 
 ![](https://img.shields.io/badge/Github%20stats-owo-pink)  
 
-![](https://github-readme-stats.vercel.app/api?username=neodoggy&theme=radical&show_icons=true&custom_title=meow%20ニオ%20meow)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neodoggy&theme=radical&layout=compact&card_width=445)
+![](https://github-readme-stats.vercel.app/api?username=neodoggy&theme=radical&show_icons=true&custom_title=neodoggy%27s%20status&include_all_commits=true&rank_icon=github&show=discussions_answered)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=neodoggy&theme=radical&layout=donut-vertical)
 
 
 <!--
