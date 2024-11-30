@@ -22,8 +22,8 @@
 
 ![](https://img.shields.io/badge/Current%20workin%20on-owo-pink)  
 
-- 🤖 [Better MOCHI]([https://github.com/NeoDoggy/python_dcbot](https://github.com/NeoDoggy/BetterMochi))
-- 💙 [project nyadoggy]([https://github.com/NeoDoggy/ai_project](https://github.com/NeoDoggy/nyadoggy_DCbot))
+- 🤖 [Better MOCHI](https://github.com/NeoDoggy/BetterMochi)
+- 💙 [project nyadoggy](https://github.com/NeoDoggy/nyadoggy_DCbot)
 
 
 <!--
