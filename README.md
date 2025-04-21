@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/About%20me-=w=-pink?style=for-the-badge">
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=Computwer+Enginyeew" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sixtyfour&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=Computwer+Enginyeew" alt="Typing SVG" /></a>
   <b>
   <br>
   💻 Currently working on embedded projects and web apps, also I draw tuwu 🖍
