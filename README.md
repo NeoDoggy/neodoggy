@@ -24,6 +24,8 @@
 <img width="37%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neodoggy&theme=dark&layout=donut&border_radius=20"/>  
 <br/>
 <img src="https://github-profile-trophy.vercel.app/?username=NeoDoggy&theme=onedark&row=1"/>
+<br/>
+<img src="https://raw.githubusercontent.com/NeoDoggy/neodoggy/refs/heads/output/github-snake-dark.svg"/>
 </p>
 
 
@@ -33,9 +35,6 @@
 <a href="https://github.com/NeoDoggy/BetterMochi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=neodoggy&repo=BetterMochi&theme=dark"></a>
 <a href="https://github.com/NeoDoggy/nyadoggy_DCbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=neodoggy&repo=nyadoggy_DCbot&theme=dark"></a>
 </p>
-
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/NeoDoggy/neodoggy/refs/heads/output/github-contribution-grid-snake.svg%3Fpalette%3Dgithub-dark)
 
 <!--
 **NeoDoggy/neodoggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
