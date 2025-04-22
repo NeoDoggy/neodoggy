@@ -1,5 +1,5 @@
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Murecho&weight=500&size=40&duration=1&pause=10000&color=FFFFFF&center=true&vCenter=true&width=435&lines=NeoDoggy%EF%BC%8Fniokai;%E3%83%8B%E3%82%AA%E3%82%AB%E3%82%A4" alt="Typing SVG" /></a></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Murecho&weight=500&size=40&duration=1&pause=10000&color=FFFFFF&center=true&vCenter=true&width=435&lines=NeoDoggy%EF%BC%8Fniokai;%E3%83%8B%E3%82%AA%E3%82%AB%E3%82%A4" alt="Typing SVG" /></h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/NeoDoggy?style=for-the-badge&logoSize=auto&label=stars%20owned&color=fe8a2c&logo=github">
@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/About%20me-=w=-pink?style=for-the-badge">
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=Computwer+Enginyeew" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=Computwer+Enginyeew" alt="Typing SVG" />
   <b>
   <br>
   💻 Currently working on embedded projects and web apps, also I draw tuwu 🖍
