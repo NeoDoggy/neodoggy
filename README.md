@@ -1,4 +1,3 @@
-<br/>
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Murecho&weight=500&size=40&duration=1&pause=6666&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=435&lines=NeoDoggy%EF%BC%8Fniokai;%E3%83%8B%E3%82%AA%E3%82%AB%E3%82%A4" alt="Typing SVG" /></h1>
 
 <p align="center">
