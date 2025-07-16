@@ -36,6 +36,8 @@
 <p align="center">
 <a href="https://github.com/NeoDoggy/BetterMochi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=neodoggy&repo=BetterMochi&theme=dark"></a>
 <a href="https://github.com/NeoDoggy/nyadoggy_DCbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=neodoggy&repo=nyadoggy_DCbot&theme=dark"></a>
+<br/>
+<a href="https://github.com/NeoDoggy/VESDA-p2p"><img src="https://github-readme-stats.vercel.app/api/pin/?username=neodoggy&repo=VESDA-p2p&theme=dark"></a>
 </p>
 
 <!--
